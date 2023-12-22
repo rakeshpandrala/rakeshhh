@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is rakesh
+=======
+this is rakesh ..................
+>>>>>>> feature1
